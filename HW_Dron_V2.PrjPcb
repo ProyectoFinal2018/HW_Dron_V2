@@ -173,23 +173,6 @@ GenerateClassCluster=0
 DocumentUniqueId=VMYLIHKT
 
 [Document9]
-DocumentPath=BatteryMonitor.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=LBYKBVLQ
-
-[Document10]
 DocumentPath=Misc.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -206,7 +189,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HVRVEDAU
 
-[Document11]
+[Document10]
 DocumentPath=PCIe_104.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -223,7 +206,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GJLJOUQU
 
-[Document12]
+[Document11]
 DocumentPath=HW_Dron_V2.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -240,7 +223,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document12]
 DocumentPath=HW_Dron_V2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -256,6 +239,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BSWBDSFM
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for HW_Dron_V2\Design Rule Check - HW_Dron_V2.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Default Configuration
